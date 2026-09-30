@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyGymBro.Api.Tests/MyGymBro.Api.Tests.csproj" />
+  <Project Path="MyGymBro.Api/MyGymBro.Api.csproj" />
+  <Project Path="MyGymBro.Infrastructure/MyGymBro.Infrastructure.csproj" />
+</Solution>
